@@ -26,7 +26,7 @@ block content
       each item,index in results
         div(class= "col-sm-2" , onclick=`buy(${index})`) #{item.Olives_color}
         div(class= "col-sm-2", onclick=`buy(${index})`) #{item.Olives_quantity}
-        div(class= "col-sm-2", onclick=`buy(${index})`) #{item.}
+        div(class= "col-sm-2", onclick=`buy(${index})`) #{item.Olives_cost}
 
   script.
     function buy(itemNum){
