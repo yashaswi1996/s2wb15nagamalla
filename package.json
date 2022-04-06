@@ -1,5 +1,5 @@
 {
-  "name": "s2wb15nagamalla",
+  "name": "pwd",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,5 +12,18 @@
     "http-errors": "^2.0.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "description": "https://s2wb15nagamalla.herokuapp.com/",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashaswi1996/s2wb15nagamalla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashaswi1996/s2wb15nagamalla/issues"
+  },
+  "homepage": "https://github.com/yashaswi1996/s2wb15nagamalla#readme"
 }
